@@ -142,7 +142,7 @@ body {
 
 .image-container-2 span div.tweet-container{
   width: auto;
-  height: auto;
+  height: 650px;
   overflow-y:auto;
   overflow-x:hidden;
   scrollbar-gutter: stable;
